@@ -1,6 +1,6 @@
 var city = prompt("Enter your city")
 
-if (city === "karachi") {
+if (city === "karachi" || "Karachi") {
     alert("Welcome to city of lights")
 }
 
